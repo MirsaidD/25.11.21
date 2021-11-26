@@ -166,3 +166,17 @@ p {
 
   text-align: center;
 }
+
+/* Animation and works */
+.works{
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.works__item{
+  width: 25%;
+  height: 350px;
+
+  border-bottom: 1px solid white;
+  border-left: 1px solid white;
+}

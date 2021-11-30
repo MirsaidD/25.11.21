@@ -47,11 +47,11 @@ p {
   z-index: 1000;
 }
 
-.fixed{
-position: fixed;
+.fixed {
+  position: fixed;
 
-height: auto;
-background-color:#31344e ;
+  height: auto;
+  background-color: #31344e;
 }
 .header__inner {
   display: flex;
@@ -98,7 +98,7 @@ background-color:#31344e ;
   height: 750px;
   padding-top: 100px;
 
-  background: #31344e url("intro-bg.jpg") center no-repeat;
+  background: #31344e url("./intro/banner.jpg") center no-repeat;
   background-size: cover;
 }
 
